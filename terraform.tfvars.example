@@ -1,0 +1,3 @@
+cidr_block = "CHANGE_ME"
+container_image = "CHANGE_ME"
+environment = "CHANGE_ME"
