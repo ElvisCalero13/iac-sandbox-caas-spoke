@@ -1,1 +1,7 @@
 s3_contactless_enable_versioning = true
+
+s3_contactless_lifecycle_rules = [
+  {
+    expiration_days = 180
+  }
+]
